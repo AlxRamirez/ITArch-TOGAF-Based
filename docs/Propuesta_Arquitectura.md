@@ -76,6 +76,8 @@
 - Base de Datos: Autonomous Database
 - Seguridad: IAM, Vault
 
+### **PROVEEDOR SELECCIONADO: AMAZON AWS**
+
 ## 5. Diagramas
 
 ### Diagrama de Arquitectura Propuesta
