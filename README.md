@@ -24,6 +24,16 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 - **Descripción:** Propuesta detallada de la arquitectura tecnológica de DemoCompany, incluyendo el diseño de la arquitectura, justificación de recursos y servicios de proveedores cloud evaluados.
 - **Enlace:** [Propuesta de Arquitectura](docs/Propuesta_Arquitectura.md)
 
+### 5. Desarrollo e Implementación de Metodologías
+
+- **Descripción:** Documento que describe el desarrollo e implementación de metodologías ágiles y alineadas con TOGAF para mejorar la eficiencia y efectividad del desarrollo y la gestión de la arquitectura en DemoCompany.
+- **Enlace:** [Desarrollo e Implementación de Metodologías](docs/Desarrollo_e_Implementacion_de_Metodologias.md)
+
+### 6. Implementación del Meta-Modelo de Arquitectura
+
+- **Descripción:** Documento que detalla la creación e implementación de un meta-modelo de arquitectura para DemoCompany, permitiendo el reúso óptimo y la modularidad de los bloques de construcción en sistemas.
+- **Enlace:** [Implementación del Meta-Modelo de Arquitectura](docs/Implementacion_del_Meta_Modelo_de_Arquitectura.md)
+
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
