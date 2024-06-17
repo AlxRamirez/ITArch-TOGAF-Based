@@ -49,6 +49,11 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 - **Descripción:** Documento que desarrolla un marco de gestión de riesgos para identificar, evaluar y mitigar los riesgos asociados con la implementación del plan de transformación arquitectónica.
 - **Enlace:** [Gestión de Riesgos](docs/Gestion_de_Riesgos.md)
 
+### 10. Colaboración Interdepartamental
+
+- **Descripción:** Documento que facilita la colaboración entre departamentos para asegurar la alineación entre el modelo de arquitectura y su implementación física.
+- **Enlace:** [Colaboración Interdepartamental](docs/Colaboracion_Interdepartamental.md)
+
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
@@ -58,4 +63,32 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 #### Anexo B: Herramientas y Recursos Recomendados
 
+- **Descripción:** Lista de herramientas y recursos recomendados para la implementación de las mejoras propuestas, alineadas con las mejores prácticas de la industria y TOGAF.
+- **Enlace:** [Anexo B: Herramientas y Recursos Recomendados](docs/Anexo_B_Herramientas_y_Recursos_Recomendados.md)
+
+## Diagramas
+
+### Diagrama de Arquitectura Propuesta
+
+- **Descripción:** Diagrama que muestra la arquitectura tecnológica propuesta para DemoCompany.
+- **Enlace:** [Diagrama de Arquitectura Propuesta](images/Diagrama_de_Arquitectura_Propuesta.png)
+
+### Roadmap de Transformación
+
+- **Descripción:** Roadmap que muestra las fases y duración del plan de transformación arquitectónica.
+- **Enlace:** [Roadmap de Transformación](images/Roadmap_de_transformacion.png)
+
+### Diagrama Gantt del Cronograma de Implementación
+
+- **Descripción:** Diagrama Gantt que detalla el cronograma de implementación del plan de transformación.
+- **Enlace:** [Diagrama Gantt del Cronograma de Implementación](images/Diagrama_Gantt_del_Cronograma_de_Implementacion.png)
+
+### Diagrama de relación de entidades, actual vs propuesta
+
+- **Descripción:** Diagrama que compara la relación de entidades en la arquitectura actual y la propuesta.
+- **Enlace:** [Diagrama de relación de entidades, actual vs propuesta](images/diagrama_de_relacion_de_entidades_propuestos.png)
+
+### Diagrama de Contexto C4
+
+- **Descripción:** Diagrama de contexto del modelo C4 que muestra cómo el sistema se relaciona con sus usuarios y otros sistemas externos.
 -
