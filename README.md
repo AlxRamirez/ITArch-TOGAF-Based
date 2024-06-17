@@ -40,19 +40,23 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 ### Diagrama de Arquitectura Propuesta
 
-![Diagrama de Arquitectura Propuesta](../images/Diagrama_de_Arquitectura_Propuesta.png)
+- **Descripción:** Diagrama que muestra la arquitectura tecnológica propuesta para DemoCompany.
+- **Enlace:** [Diagrama de Arquitectura Propuesta](images/Diagrama_de_Arquitectura_Propuesta.png)
 
 ### Roadmap de Transformación
 
-![Roadmap de Transformación](../images/Roadmap_de_transformacion.png)
+- **Descripción:** Roadmap que muestra las fases y duración del plan de transformación arquitectónica.
+- **Enlace:** [Roadmap de Transformación](images/Roadmap_de_transformacion.png)
 
 ### Diagrama Gantt del Cronograma de Implementación
 
-![Diagrama Gantt del Cronograma de Implementación](../images/Diagrama_Gantt_del_Cronograma_de_Implementacion.png)
+- **Descripción:** Diagrama Gantt que detalla el cronograma de implementación del plan de transformación.
+- **Enlace:** [Diagrama Gantt del Cronograma de Implementación](images/Diagrama_Gantt_del_Cronograma_de_Implementacion.png)
 
 ### Diagrama de relación de entidades, actual vs propuesta
 
-![Diagrama de relación de entidades, actual vs propuesta](../images/diagrama_de_relacion_de_entidades_propuestos.png)
+- **Descripción:** Diagrama que compara la relación de entidades en la arquitectura actual y la propuesta.
+- **Enlace:** [Diagrama de relación de entidades, actual vs propuesta](images/diagrama_de_relacion_de_entidades_propuestos.png)
 
 ## Instrucciones
 
