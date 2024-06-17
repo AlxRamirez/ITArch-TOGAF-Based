@@ -7,34 +7,34 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 ### 1. Informe de Evaluación del Estado Actual de la Arquitectura
 
 - **Descripción:** Evaluación del estado actual de la arquitectura tecnológica de DemoCompany, incluyendo análisis de desempeño, identificación de brechas y recomendaciones.
-- **Enlace:** [Informe de Evaluación del Estado Actual de la Arquitectura](docs/Informe_de_Evaluacion_del_Estado_Actual.md)
+- **Enlace:** [Informe de Evaluación del Estado Actual de la Arquitectura](Informe_de_Evaluacion_del_Estado_Actual.md)
 
 ### 2. Identificación de Brechas y Oportunidades
 
 - **Descripción:** Documento que identifica las brechas tecnológicas y oportunidades de mejora, y propone un plan de acción para abordar estas brechas.
-- **Enlace:** [Identificación de Brechas y Oportunidades](docs/Identificacion_de_Brechas_y_Oportunidades.md)
+- **Enlace:** [Identificación de Brechas y Oportunidades](Identificacion_de_Brechas_y_Oportunidades.md)
 
 ### 3. Plan de Transformación Arquitectónica
 
 - **Descripción:** Plan detallado para la transformación arquitectónica de DemoCompany, incluyendo cronograma de implementación, recursos necesarios, costos estimados, identificación de riesgos y análisis de ROI.
-- **Enlace:** [Plan de Transformación Arquitectónica](docs/Plan_de_Transformacion_Arquitectonica.md)
+- **Enlace:** [Plan de Transformación Arquitectónica](Plan_de_Transformacion_Arquitectonica.md)
 
 ### 4. Propuesta de Arquitectura
 
 - **Descripción:** Propuesta detallada de la arquitectura tecnológica de DemoCompany, incluyendo el diseño de la arquitectura, justificación de recursos y servicios de proveedores cloud evaluados.
-- **Enlace:** [Propuesta de Arquitectura](docs/Propuesta_Arquitectura.md)
+- **Enlace:** [Propuesta de Arquitectura](Propuesta_Arquitectura.md)
 
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
 
 - **Descripción:** Descripción detallada de la metodología utilizada para evaluar el estado actual de la arquitectura tecnológica de DemoCompany, alineada con TOGAF.
-- **Enlace:** [Anexo A: Metodología Utilizada para la Evaluación](docs/Anexo_A_Metodologia_Utilizada_para_la_Evaluacion.md)
+- **Enlace:** [Anexo A: Metodología Utilizada para la Evaluación](Anexo_A_Metodologia_Utilizada_para_la_Evaluacion.md)
 
 #### Anexo B: Herramientas y Recursos Recomendados
 
 - **Descripción:** Lista de herramientas y recursos recomendados para la implementación de las mejoras propuestas, alineadas con las mejores prácticas de la industria y TOGAF.
-- **Enlace:** [Anexo B: Herramientas y Recursos Recomendados](docs/Anexo_B_Herramientas_y_Recursos_Recomendados.md)
+- **Enlace:** [Anexo B: Herramientas y Recursos Recomendados](Anexo_B_Herramientas_y_Recursos_Recomendados.md)
 
 ## Diagramas
 
