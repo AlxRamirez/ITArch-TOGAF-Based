@@ -91,4 +91,72 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 ### Diagrama de Contexto C4
 
 - **Descripción:** Diagrama de contexto del modelo C4 que muestra cómo el sistema se relaciona con sus usuarios y otros sistemas externos.
--
+- **Enlace:** [Diagrama de Contexto C4](images/Diagrama_de_ContextoC4.png)
+
+### Diagrama de Contenedores C4
+
+- **Descripción:** Diagrama de contenedores del modelo C4 que muestra los contenedores que forman el sistema, cómo se comunican y sus relaciones con los usuarios externos y otros sistemas.
+- **Enlace:** [Diagrama de Contenedores C4](images/Diagrama_de_ContenedoresC4.png)
+
+### Diagrama de Componentes C4
+
+- **Descripción:** Diagrama de componentes del modelo C4 que muestra los componentes dentro de cada contenedor, sus relaciones y cómo interactúan para cumplir los requisitos del sistema.
+- **Enlace:** [Diagrama de Componentes C4](images/Diagrama_de_ComponentesC4.png)
+
+### Diagrama de Código C4
+
+- **Descripción:** Diagrama de código del modelo C4 que muestra los detalles de implementación de un componente específico, incluyendo clases, interfaces y otros elementos de código.
+- **Enlace:** [Diagrama de Código C4](images/Diagrama_de_Código_C4.png)
+
+### Diagrama Gantt del Cronograma de Capacitación
+
+- **Descripción:** Diagrama Gantt que detalla el cronograma del programa de capacitación.
+- **Enlace:** [Diagrama Gantt del Cronograma de Capacitación](images/Diagrama_Gantt_Capacitacion.png)
+
+### Diagrama de Estándares y su Aplicación en Proyectos
+
+- **Descripción:** Diagrama que muestra la aplicación de los estándares en los proyectos de DemoCompany.
+- **Enlace:** [Diagrama de Estándares y su Aplicación en Proyectos](images/Diagrama_Estandares_Aplicacion.png)
+
+### Diagrama de Revisión Periódica de Estándares
+
+- **Descripción:** Diagrama que muestra el proceso de revisión periódica de los estándares.
+- **Enlace:** [Diagrama de Revisión Periódica de Estándares](images/Diagrama_Revision_Periodica.png)
+
+### Diagrama del Proceso de Gestión de Riesgos
+
+- **Descripción:** Diagrama que muestra el proceso de gestión de riesgos.
+- **Enlace:** [Diagrama del Proceso de Gestión de Riesgos](images/Diagrama_Proceso_Gestion_Riesgos.png)
+
+### Matriz de Riesgos
+
+- **Descripción:** Matriz que evalúa y prioriza los riesgos asociados con el proyecto.
+- **Enlace:** [Matriz de Riesgos](images/Matriz_Riesgos.png)
+
+### Diagrama de Flujo de Comunicación
+
+- **Descripción:** Diagrama que muestra el flujo de comunicación entre los departamentos.
+- **Enlace:** [Diagrama de Flujo de Comunicación](images/Diagrama_Flujo_Comunicacion.png)
+
+### Ejemplo de Cronograma de Reuniones
+
+- **Descripción:** Diagrama que muestra un ejemplo de cronograma de reuniones.
+- **Enlace:** [Ejemplo de Cronograma de Reuniones](images/Cronograma_Reuniones.png)
+
+## Instrucciones
+
+1. **Documentos:** Todos los documentos están almacenados en la carpeta `docs/`.
+2. **Imágenes y Diagramas:** Todos los gráficos y diagramas están almacenados en la carpeta `images/`.
+3. **Actualización del Repositorio:** Actualiza este archivo README.md cada vez que se genere un nuevo documento o diagrama.
+
+---
+
+## Próximos Pasos
+
+1. Continuar con la generación de los siguientes documentos según el plan de transformación arquitectónica.
+2. Asegurar que todos los documentos estén alineados con el marco de trabajo TOGAF.
+3. Mantener el README.md actualizado con enlaces a los nuevos documentos y diagramas generados.
+
+---
+
+**Nota:** Esta documentación es parte de un proyecto en curso y está sujeta a cambios y actualizaciones conforme avanza el proyecto. Todos los costos están expresados en dólares estadounidenses (USD). El tipo de cambio utilizado es 1 USD = 20 MXN al momento de la creación del documento.
