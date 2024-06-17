@@ -1,4 +1,3 @@
-# ITArch-TOGAF-Based
 # Documentación del Proyecto de Transformación Arquitectónica
 
 Este repositorio contiene la documentación relacionada con el proyecto de transformación arquitectónica de DemoCompany, siguiendo el marco de trabajo TOGAF. A continuación se detallan los documentos generados y sus contenidos.
@@ -51,6 +50,3 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 ---
 
 **Nota:** Esta documentación es parte de un proyecto en curso y está sujeta a cambios y actualizaciones conforme avanza el proyecto.
-
-
-

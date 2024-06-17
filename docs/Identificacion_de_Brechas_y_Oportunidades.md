@@ -102,6 +102,6 @@ Las brechas identificadas representan áreas críticas que deben abordarse para 
 
 ## Anexos
 
-**Anexo A: Metodología Utilizada para la Evaluación**
+**Anexo A: [Metodología Utilizada para la Evaluación](docs/Anexo_A_Metodologia_Utilizada_para_la_Evaluacion.md)**
 
-**Anexo B: Herramientas y Recursos Recomendados**
+**Anexo B: [Herramientas y Recursos Recomendados](docs/Anexo_B_Herramientas_y_Recursos_Recomendados.md)**
