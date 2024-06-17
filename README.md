@@ -64,6 +64,11 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 - **Descripción:** Documento que fomenta una cultura de excelencia arquitectónica dentro de DemoCompany, promoviendo la mejora continua, la colaboración y el aprendizaje.
 - **Enlace:** [Fomento de la Cultura de Excelencia](docs/Fomento_de_la_Cultura_de_Excelencia.md)
 
+### 13. Resumen Ejecutivo
+
+- **Descripción:** Resumen ejecutivo que abarca los aspectos principales de todos los documentos generados en el proyecto de transformación arquitectónica de DemoCompany.
+- **Enlace:** [Resumen Ejecutivo](docs/Resumen_Ejecutivo.md)
+
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
@@ -204,4 +209,4 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 ---
 
-**Nota:** Esta documentación es parte de un proyecto en curso y está sujeta a cambios y actualizaciones conforme avanza el proyecto. Todos los costos están expresados en dólares estadounidenses (USD). El tipo de cambio utilizado es 1 USD = 20 MXN al momento de la creación del documento.
+**Nota:** Esta documentación es parte de un proyecto en curso y está sujeta a cambios y actualizaciones conforme avanza el proyecto. Todos los costos están expresados en dólares estadounidenses (
