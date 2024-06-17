@@ -1,6 +1,6 @@
 # Documentación del Proyecto de Transformación Arquitectónica
 
-Este repositorio contiene la documentación relacionada con el proyecto de transformación arquitectónica de DemoCompany, siguiendo el marco de trabajo TOGAF. A continuación se detallan los documentos generados y sus contenidos.
+Este repositorio contiene la documentación relacionada con un proyecto de transformación arquitectónica de DemoCompany, siguiendo el marco de trabajo TOGAF. A continuación se detallan los documentos generados y sus contenidos.
 
 ## Documentos Generados
 
