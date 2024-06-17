@@ -59,6 +59,11 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 - **Descripción:** Documento que define las estrategias y procesos para la administración y coordinación de los equipos de trabajo en DemoCompany, asegurando la eficiencia y calidad en la entrega de proyectos.
 - **Enlace:** [Administración de Equipos y Coordinación](docs/Administracion_de_Equipos_y_Coordinacion.md)
 
+### 12. Fomento de la Cultura de Excelencia
+
+- **Descripción:** Documento que fomenta una cultura de excelencia arquitectónica dentro de DemoCompany, promoviendo la mejora continua, la colaboración y el aprendizaje.
+- **Enlace:** [Fomento de la Cultura de Excelencia](docs/Fomento_de_la_Cultura_de_Excelencia.md)
+
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
@@ -167,6 +172,21 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 - **Descripción:** Diagrama que muestra el proceso de revisión de calidad de los entregables.
 - **Enlace:** [Diagrama de Revisión de Calidad de Entregables](images/Diagrama_Revision_Calidad_Entregables.png)
+
+### Diagrama del Sistema de Reconocimiento
+
+- **Descripción:** Diagrama que muestra el sistema de reconocimiento para los empleados de DemoCompany.
+- **Enlace:** [Diagrama del Sistema de Reconocimiento](images/Diagrama_Sistema_Reconocimiento.png)
+
+### Diagrama del Plan de Actividades Colaborativas
+
+- **Descripción:** Diagrama que muestra el plan de actividades colaborativas para los empleados de DemoCompany.
+- **Enlace:** [Diagrama del Plan de Actividades Colaborativas](images/Diagrama_Plan_Actividades_Colaborativas.png)
+
+### Diagrama del Programa de Mentoría
+
+- **Descripción:** Diagrama que muestra el programa de mentoría para los empleados de DemoCompany.
+- **Enlace:** [Diagrama del Programa de Mentoría](images/Diagrama_Programa_Mentoria.png)
 
 ## Instrucciones
 
