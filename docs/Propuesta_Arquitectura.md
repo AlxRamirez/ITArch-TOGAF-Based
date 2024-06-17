@@ -80,81 +80,11 @@
 
 ### Diagrama de Arquitectura Propuesta
 
-```mermaid
-graph TD
-    A[Usuarios] -->|Solicitudes HTTP| B[Balanceador de Carga]
-    B --> C[Instancias de Computación]
-    C --> D[Base de Datos]
-    C --> E[Almacenamiento en Disco]
-    D --> F[Backup y Recuperación]
-    C --> G[Servicios de Seguridad]
+### Roadmap de Transformación
+![Roadmap de Transformación](../images/Roadmap_de_transformacion.png)
 
-    subgraph Cloud Provider
-        B
-        C
-        D
-        E
-        F
-        G
-    end
+### Diagrama Gantt del Cronograma de Implementación
+![Diagrama Gantt del Cronograma de Implementación](../images/Diagrama_Gantt_del_Cronograma_de_Implementacion.png)
 
-gantt
-    title Roadmap de Transformación
-    dateFormat  YYYY-MM
-    section Fase 1: Evaluación y Análisis
-    Evaluación del Estado Actual         :done,    des1, 2024-01, 2024-02
-    Identificación de Brechas y Oportunidades    :done,    des2, 2024-02, 2024-03
-    section Fase 2: Diseño y Planificación
-    Diseño de la Arquitectura Futura     :active,  des3, 2024-04, 2024-05
-    Planificación Detallada              :active,  des4, 2024-05, 2024-06
-    section Fase 3: Implementación
-    Descomposición de Aplicaciones Monolíticas :  des5, 2024-07, 2024-09
-    Configuración de Kubernetes y Docker       :  des6, 2024-07, 2024-09
-    Automatización de CI/CD                    :  des7, 2024-08, 2024-10
-    Migración Inicial a la Nube Híbrida        :  des8, 2024-10, 2024-12
-    section Fase 4: Monitoreo y Ajustes
-    Implementación de Herramientas de Monitoreo: des9, 2025-01, 2025-02
-    Optimización Continua                      : des10, 2025-02, 2025-12
-gantt
-    title Diagrama Gantt del Cronograma de Implementación
-    dateFormat  YYYY-MM
-    section Evaluación y Análisis
-    Evaluación del Estado Actual          :done,    task1, 2024-01, 2024-02
-    Identificación de Brechas y Oportunidades :done,    task2, 2024-02, 2024-03
-    section Diseño y Planificación
-    Diseño de la Arquitectura Futura      :active,  task3, 2024-04, 2024-05
-    Planificación Detallada               :active,  task4, 2024-05, 2024-06
-    section Implementación
-    Descomposición de Aplicaciones Monolíticas : task5, 2024-07, 2024-09
-    Configuración de Kubernetes y Docker  :task6, 2024-07, 2024-09
-    Automatización de CI/CD               :task7, 2024-08, 2024-10
-    Migración Inicial a la Nube Híbrida   :task8, 2024-10, 2024-12
-    section Monitoreo y Ajustes
-    Implementación de Herramientas de Monitoreo :task9, 2025-01, 2025-02
-    Optimización Continua                 :task10, 2025-02, 2025-12
-graph LR
-    A[Usuarios] -->|Solicitudes HTTP| B[Balanceador de Carga Actual]
-    B --> C[Servidores Monolíticos]
-    C --> D[Base de Datos Actual]
-
-    subgraph Arquitectura Actual
-        B
-        C
-        D
-    end
-
-    A2[Usuarios] -->|Solicitudes HTTP| B2[Balanceador de Carga Propuesto]
-    B2 --> C2[Instancias de Computación Propuestas]
-    C2 --> D2[Base de Datos Propuesta]
-    C2 --> E2[Almacenamiento en Disco Propuesto]
-    D2 --> F2[Backup y Recuperación Propuesto]
-    C2 --> G2[Servicios de Seguridad Propuestos]
-
-    subgraph Arquitectura Propuesta
-        B2
-        C2
-        D2
-        E2
-        F2
-        G2
-    end
+### Diagrama de relacion de entidades, actual vs propuesta
+![Diagrama de relacion de entidades, actual vs propuesta](../images/diagrama_de_relacion_de_entidades_propuestos.png)
