@@ -41,7 +41,7 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 ### Diagrama de Arquitectura Propuesta
 
 - **Descripción:** Diagrama que muestra la arquitectura tecnológica propuesta para DemoCompany.
-- **Enlace:** [Diagrama de Arquitectura Propuesta](images/Diagrama_de_Arquitectura_Propuesta.png)
+- **Enlace:** [Diagrama de Arquitectura Propuesta](images/Diagrama_de_Arquitectura_Propuesta.jpg)
 
 ### Roadmap de Transformación
 
