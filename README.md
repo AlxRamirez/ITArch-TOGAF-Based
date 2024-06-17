@@ -14,6 +14,16 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 - **Descripción:** Documento que identifica las brechas tecnológicas y oportunidades de mejora, y propone un plan de acción para abordar estas brechas.
 - **Enlace:** [Identificación de Brechas y Oportunidades](docs/Identificacion_de_Brechas_y_Oportunidades.md)
 
+### 3. Plan de Transformación Arquitectónica
+
+- **Descripción:** Plan detallado para la transformación arquitectónica de DemoCompany, incluyendo cronograma de implementación, recursos necesarios, costos estimados, identificación de riesgos y análisis de ROI.
+- **Enlace:** [Plan de Transformación Arquitectónica](docs/Plan_de_Transformacion_Arquitectonica.md)
+
+### 4. Propuesta de Arquitectura
+
+- **Descripción:** Propuesta detallada de la arquitectura tecnológica de DemoCompany, incluyendo el diseño de la arquitectura, justificación de recursos y servicios de proveedores cloud evaluados.
+- **Enlace:** [Propuesta de Arquitectura](docs/Propuesta_Arquitectura.md)
+
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
@@ -28,10 +38,21 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 ## Diagramas
 
-### Diagrama de Flujo de Trabajo Actual vs. Propuesto
+### Diagrama de Arquitectura Propuesta
 
-- **Descripción:** Diagrama que muestra la comparación entre el flujo de trabajo actual y el propuesto.
-- **Enlace:** [Diagrama de Flujo de Trabajo Actual vs. Propuesto](images/workflow_current_vs_proposed_v2.png)
+![Diagrama de Arquitectura Propuesta](../images/Diagrama_de_Arquitectura_Propuesta.png)
+
+### Roadmap de Transformación
+
+![Roadmap de Transformación](../images/Roadmap_de_transformacion.png)
+
+### Diagrama Gantt del Cronograma de Implementación
+
+![Diagrama Gantt del Cronograma de Implementación](../images/Diagrama_Gantt_del_Cronograma_de_Implementacion.png)
+
+### Diagrama de relación de entidades, actual vs propuesta
+
+![Diagrama de relación de entidades, actual vs propuesta](../images/diagrama_de_relacion_de_entidades_propuestos.png)
 
 ## Instrucciones
 
@@ -49,4 +70,4 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 ---
 
-**Nota:** Esta documentación es parte de un proyecto en curso y está sujeta a cambios y actualizaciones conforme avanza el proyecto.
+**Nota:** Esta documentación es parte de un proyecto en curso y está sujeta a cambios y actualizaciones conforme avanza el proyecto. Todos los costos están expresados en dólares estadounidenses (USD). El tipo de cambio utilizado es 1 USD = 20 MXN al momento de la creación del documento.
