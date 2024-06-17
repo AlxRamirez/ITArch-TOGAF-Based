@@ -59,7 +59,7 @@ Este plan tiene como objetivo guiar la transformación de la arquitectura tecnol
 - **Desventajas:**
   - Menor diversidad de servicios en comparación con AWS y Azure.
 
-**PROVEEDOR SELECCIONADO: MICROSOFT AZURE**
+**PROVEEDOR SELECCIONADO: AMAZON AWS**
 
 ## 4. Planificación por Fase
 

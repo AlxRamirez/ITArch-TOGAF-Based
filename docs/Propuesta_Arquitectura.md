@@ -80,6 +80,8 @@
 
 ### Diagrama de Arquitectura Propuesta
 
+![Diagrama de Arquitectura Propuesta](../images/Diagrama_de_Arquitectura_Propuesta.jpg)
+
 ### Roadmap de Transformación
 ![Roadmap de Transformación](../images/Roadmap_de_transformacion.png)
 
