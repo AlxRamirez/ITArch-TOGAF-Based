@@ -69,20 +69,48 @@
 
 ![Diagrama Gantt del Cronograma de Implementación](../images/Diagrama_Gantt_del_Cronograma_de_Implementacion_Meta_Modelo.png)
 
-## 4. Documentación y Recursos
+## 4. Modelo de Arquitectura C4
 
-### 4.1 Documentos
+El modelo de arquitectura C4 es una forma de describir la arquitectura de software en diferentes niveles de abstracción, desde una vista de alto nivel del sistema hasta los detalles de los componentes individuales. A continuación, se presentan las vistas C4 para el meta-modelo de arquitectura de DemoCompany.
+
+### 4.1 Diagrama de Contexto
+
+**Descripción:** Muestra cómo el sistema se relaciona con sus usuarios y otros sistemas externos.
+
+![Diagrama de Contexto](../images/C4_Context_Diagram.png)
+
+### 4.2 Diagrama de Contenedores
+
+**Descripción:** Muestra los contenedores que forman el sistema, cómo se comunican y sus relaciones con los usuarios externos y otros sistemas.
+
+![Diagrama de Contenedores](../images/C4_Container_Diagram.png)
+
+### 4.3 Diagrama de Componentes
+
+**Descripción:** Muestra los componentes dentro de cada contenedor, sus relaciones y cómo interactúan para cumplir los requisitos del sistema.
+
+![Diagrama de Componentes](../images/C4_Component_Diagram.png)
+
+### 4.4 Diagrama de Código
+
+**Descripción:** Muestra los detalles de implementación de un componente específico, incluyendo clases, interfaces y otros elementos de código.
+
+![Diagrama de Código](../images/C4_Code_Diagram.png)
+
+## 5. Documentación y Recursos
+
+### 5.1 Documentos
 
 - **[Guía del Meta-Modelo](docs/Guia_del_Meta_Modelo.md):** Documentación detallada del meta-modelo, incluyendo definiciones, relaciones y reglas.
 - **[Manuales de Usuario](docs/Manuales_de_Usuario.md):** Guías para desarrolladores y arquitectos sobre cómo utilizar el meta-modelo.
 - **[Casos de Uso](docs/Casos_de_Uso.md):** Ejemplos de implementación del meta-modelo en diferentes proyectos.
 
-### 4.2 Herramientas
+### 5.2 Herramientas
 
 - **Herramientas de Modelado:** Herramientas para diseñar y documentar el meta-modelo (e.g., Archi, Sparx Systems Enterprise Architect).
 - **Repositorios de Código:** Repositorios para almacenar y gestionar los bloques de construcción (e.g., GitHub, GitLab).
 
-## 5. Conclusión
+## 6. Conclusión
 
 La implementación de un meta-modelo de arquitectura en DemoCompany permitirá una mayor eficiencia y coherencia en el desarrollo de sistemas, facilitando el reúso y la modularidad de los componentes. Este enfoque reducirá los costos y tiempos de implementación, mejorando la capacidad de la organización para responder a las demandas del mercado.
 
