@@ -54,6 +54,11 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 - **Descripción:** Documento que facilita la colaboración entre departamentos para asegurar la alineación entre el modelo de arquitectura y su implementación física.
 - **Enlace:** [Colaboración Interdepartamental](docs/Colaboracion_Interdepartamental.md)
 
+### 11. Administración de Equipos y Coordinación
+
+- **Descripción:** Documento que define las estrategias y procesos para la administración y coordinación de los equipos de trabajo en DemoCompany, asegurando la eficiencia y calidad en la entrega de proyectos.
+- **Enlace:** [Administración de Equipos y Coordinación](docs/Administracion_de_Equipos_y_Coordinacion.md)
+
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
@@ -142,6 +147,26 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 - **Descripción:** Diagrama que muestra un ejemplo de cronograma de reuniones.
 - **Enlace:** [Ejemplo de Cronograma de Reuniones](images/Cronograma_Reuniones.png)
+
+### Diagrama de Estructura del Equipo
+
+- **Descripción:** Diagrama que muestra la estructura del equipo en DemoCompany.
+- **Enlace:** [Diagrama de Estructura del Equipo](images/Diagrama_Estructura_Equipo.png)
+
+### Diagrama de Backlog y Priorización
+
+- **Descripción:** Diagrama que muestra el proceso de backlog y priorización.
+- **Enlace:** [Diagrama de Backlog y Priorización](images/Diagrama_Backlog_Priorizacion.png)
+
+### Diagrama de Flujo de Trabajo Colaborativo
+
+- **Descripción:** Diagrama que muestra el flujo de trabajo colaborativo.
+- **Enlace:** [Diagrama de Flujo de Trabajo Colaborativo](images/Diagrama_Flujo_Trabajo_Colaborativo.png)
+
+### Diagrama de Revisión de Calidad de Entregables
+
+- **Descripción:** Diagrama que muestra el proceso de revisión de calidad de los entregables.
+- **Enlace:** [Diagrama de Revisión de Calidad de Entregables](images/Diagrama_Revision_Calidad_Entregables.png)
 
 ## Instrucciones
 
