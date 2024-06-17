@@ -1,2 +1,56 @@
 # ITArch-TOGAF-Based
-Documents and Considerations to provide an architectural transformation strategy.
+# Documentación del Proyecto de Transformación Arquitectónica
+
+Este repositorio contiene la documentación relacionada con el proyecto de transformación arquitectónica de DemoCompany, siguiendo el marco de trabajo TOGAF. A continuación se detallan los documentos generados y sus contenidos.
+
+## Documentos Generados
+
+### 1. Informe de Evaluación del Estado Actual de la Arquitectura
+
+- **Descripción:** Evaluación del estado actual de la arquitectura tecnológica de DemoCompany, incluyendo análisis de desempeño, identificación de brechas y recomendaciones.
+- **Enlace:** [Informe de Evaluación del Estado Actual de la Arquitectura](docs/Informe_de_Evaluacion_del_Estado_Actual.md)
+
+### 2. Identificación de Brechas y Oportunidades
+
+- **Descripción:** Documento que identifica las brechas tecnológicas y oportunidades de mejora, y propone un plan de acción para abordar estas brechas.
+- **Enlace:** [Identificación de Brechas y Oportunidades](docs/Identificacion_de_Brechas_y_Oportunidades.md)
+
+### Anexos
+
+#### Anexo A: Metodología Utilizada para la Evaluación
+
+- **Descripción:** Descripción detallada de la metodología utilizada para evaluar el estado actual de la arquitectura tecnológica de DemoCompany, alineada con TOGAF.
+- **Enlace:** [Anexo A: Metodología Utilizada para la Evaluación](docs/Anexo_A_Metodologia_Utilizada_para_la_Evaluacion.md)
+
+#### Anexo B: Herramientas y Recursos Recomendados
+
+- **Descripción:** Lista de herramientas y recursos recomendados para la implementación de las mejoras propuestas, alineadas con las mejores prácticas de la industria y TOGAF.
+- **Enlace:** [Anexo B: Herramientas y Recursos Recomendados](docs/Anexo_B_Herramientas_y_Recursos_Recomendados.md)
+
+## Diagramas
+
+### Diagrama de Flujo de Trabajo Actual vs. Propuesto
+
+- **Descripción:** Diagrama que muestra la comparación entre el flujo de trabajo actual y el propuesto.
+- **Enlace:** [Diagrama de Flujo de Trabajo Actual vs. Propuesto](images/workflow_current_vs_proposed_v2.png)
+
+## Instrucciones
+
+1. **Documentos:** Todos los documentos están almacenados en la carpeta `docs/`.
+2. **Imágenes y Diagramas:** Todos los gráficos y diagramas están almacenados en la carpeta `images/`.
+3. **Actualización del Repositorio:** Actualiza este archivo README.md cada vez que se genere un nuevo documento o diagrama.
+
+---
+
+## Próximos Pasos
+
+1. Continuar con la generación de los siguientes documentos según el plan de transformación arquitectónica.
+2. Asegurar que todos los documentos estén alineados con el marco de trabajo TOGAF.
+3. Mantener el README.md actualizado con enlaces a los nuevos documentos y diagramas generados.
+
+---
+
+**Nota:** Esta documentación es parte de un proyecto en curso y está sujeta a cambios y actualizaciones conforme avanza el proyecto.
+
+
+
