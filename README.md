@@ -39,6 +39,11 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 - **Descripción:** Programa de capacitación integral para el personal de DemoCompany, alineado con la implementación del meta-modelo de arquitectura y las nuevas metodologías y herramientas adoptadas.
 - **Enlace:** [Programa de Capacitación](docs/Programa_de_Capacitacion.md)
 
+### 8. Definición y Documentación de Estándares
+
+- **Descripción:** Documento que define y documenta los estándares técnicos y de proceso para asegurar la coherencia y calidad en el desarrollo y mantenimiento de sistemas en DemoCompany.
+- **Enlace:** [Definición y Documentación de Estándares](docs/Definicion_y_Documentacion_de_Estandares.md)
+
 ### Anexos
 
 #### Anexo A: Metodología Utilizada para la Evaluación
@@ -97,6 +102,16 @@ Este repositorio contiene la documentación relacionada con el proyecto de trans
 
 - **Descripción:** Diagrama Gantt que detalla el cronograma del programa de capacitación.
 - **Enlace:** [Diagrama Gantt del Cronograma de Capacitación](images/Diagrama_Gantt_Capacitacion.png)
+
+### Diagrama de Estándares y su Aplicación en Proyectos
+
+- **Descripción:** Diagrama que muestra la aplicación de los estándares en los proyectos de DemoCompany.
+- **Enlace:** [Diagrama de Estándares y su Aplicación en Proyectos](images/Diagrama_Estandares_Aplicacion.png)
+
+### Diagrama de Revisión Periódica de Estándares
+
+- **Descripción:** Diagrama que muestra el proceso de revisión periódica de los estándares.
+- **Enlace:** [Diagrama de Revisión Periódica de Estándares](images/Diagrama_Revision_Periodica.png)
 
 ## Instrucciones
 
